@@ -1,0 +1,5 @@
+.idea
+src/*
+!src/xlsxToUseful.py
+!src/*.cfg
+!src/requirements.txt
