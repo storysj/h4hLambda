@@ -1,5 +1,6 @@
 .idea
 src/*
+!src/*.sh
 !src/xlsxToUseful.py
 !src/*.cfg
 !src/requirements.txt
